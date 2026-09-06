@@ -1,0 +1,8 @@
+Jan 12 02:14:01 ubuntu sshd[2041]: Failed password for root from 185.220.101.45 port 40222 ssh2
+Jan 12 02:14:04 ubuntu sshd[2043]: Failed password for root from 185.220.101.45 port 40224 ssh2
+Jan 12 02:14:09 ubuntu sshd[2045]: Failed password for admin from 103.45.66.12 port 51000 ssh2
+Jan 12 02:15:30 ubuntu sshd[2050]: Accepted password for priya from 192.168.1.10 port 2231 ssh2
+Jan 12 02:16:45 ubuntu sshd[2061]: Failed password for invalid user test from 185.220.101.45 port 40310 ssh2
+Jan 12 03:22:11 ubuntu sshd[2100]: Accepted password for priya from 192.168.1.10 port 2232 ssh2
+Jan 12 04:01:02 ubuntu sshd[2150]: Failed password for admin from 103.45.66.12 port 51001 ssh2
+Jan 12 05:30:11 ubuntu sshd[2200]: Failed password for admin from 198.51.100.77 port 55001 ssh2
