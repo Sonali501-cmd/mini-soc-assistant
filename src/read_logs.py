@@ -1,7 +1,7 @@
 import re
 
 LOG_FILE = "data/sample_logs/auth.log"
-BRUTE_FORCE_THRESHOLD = 2
+BRUTE_FORCE_THRESHOLD = 3
 
 
 def parse_log_line(line):
