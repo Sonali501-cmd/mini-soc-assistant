@@ -6,7 +6,7 @@ BRUTE_FORCE_THRESHOLD = 2
 
 def parse_log_line(line):
     """Ek log line se IP nikaalta hai. Failed login na ho toh None deta hai."""
-    if "Failed password" in line:
+    if "Failed password" in line or "Invalid user" in line:
         ips = re.findall(r"\d+\.\d+\.\d+\.\d+", line)
         if ips:
             return ips[0]

@@ -6,3 +6,4 @@ Jan 12 02:16:45 ubuntu sshd[2061]: Failed password for invalid user test from 18
 Jan 12 03:22:11 ubuntu sshd[2100]: Accepted password for priya from 192.168.1.10 port 2232 ssh2
 Jan 12 04:01:02 ubuntu sshd[2150]: Failed password for admin from 103.45.66.12 port 51001 ssh2
 Jan 12 05:30:11 ubuntu sshd[2200]: Failed password for admin from 198.51.100.77 port 55001 ssh2
+Jan 12 06:10:01 ubuntu sshd[2300]: Invalid user hacker from 45.33.32.156 port 60123
